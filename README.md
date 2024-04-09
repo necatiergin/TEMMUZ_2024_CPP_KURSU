@@ -22,7 +22,7 @@
 
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/TEMMUZ_2024_CPP_KURSU/blob/main/kurs_tanitimi.md)<br>
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
-&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZckc-6qqTwuGdcAT3NgofGuuuL2qaoJLJen)
+&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZAlcu-grz0vGtGVL0zN1twyEorBXVKrne_E)
 
 
 <!---
