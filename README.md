@@ -1,3 +1,5 @@
+#### Temmuz 2024 C++ PROGRAMLAMA DİLİ KURSU
+
 ✅ Bu kurs katılımcıların öncelikle C++ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
 ✅ Bu kurs Plepa Eğitim Hizmetleri tarafından düzenlenmektedir.
