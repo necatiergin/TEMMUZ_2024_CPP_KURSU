@@ -20,7 +20,7 @@ _C++20_ standartları hakkında genel bilgiler verilmektedir.<br>
 
 ✅ Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara __(Data structures & algorithms)__ ilişkin temel kavramlar da anlatılmaktadır.<br>
 
-ℹ️ Öğrenciler kaçırdıkları dersleri ya da tekrar etmek istedikleri dersleri kurs takip sistemimizi kullanarak kendilerine verilecek parola  ile 2 kez __Vimeo__ üzerinden izleyebilirler. Bu yeterli olmaz ise yeniden izleme talebinde bulunabilirler.
+ℹ️ Öğrenciler kaçırdıkları dersleri ya da tekrar etmek istedikleri dersleri kurs takip sistemimizi kullanarak kendilerine verilecek parola  ile __Vimeo__ üzerinden izleyebilirler.
 
 ## Ön Koşul
 &#9888;Bu kursta __C++__ dilinin _C_ dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede _C_ bilmeniz gerekmektedir.<br> &#9888;Programa uygun olup olmadığınız konusunda şüpheleriniz varsa &#128279;__[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)__ ile görüşebilirsiniz.
@@ -130,5 +130,5 @@ Bireysel katılımcılar kurs ücretini 2 taksit olarak ödeyebilirler.
 
 
 ## Eğitim Programına Kayıt
-&#128279;__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZckc-6qqTwuGdcAT3NgofGuuuL2qaoJLJen)__. 
+&#128279;__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZAlcu-grz0vGtGVL0zN1twyEorBXVKrne_E)__. 
 Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
