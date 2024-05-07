@@ -26,7 +26,7 @@
 
 
 <!---
-![kurs tanıtım görseli](https://github.com/necatiergin/OCAK_2024_ONLINE_CPLUSPLUS_KURSU/blob/main/kurs_gorseli.png)
+![kurs tanıtım görseli](https://github.com/necatiergin/TEMMUZ_2024_CPP_KURSU/blob/main/kurs_gorseli.jpg)
 
 
 -->
