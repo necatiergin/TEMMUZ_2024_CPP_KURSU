@@ -20,7 +20,7 @@ _C++20_ standartları hakkında genel bilgiler verilmektedir.<br>
 
 ✅ Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara __(Data structures & algorithms)__ ilişkin temel kavramlar da anlatılmaktadır.<br>
 
-ℹ️ Öğrenciler kaçırdıkları dersleri ya da tekrar etmek istedikleri dersleri kurs takip sistemimizi kullanarak kendilerine verilecek parola  ile __Vimeo__ üzerinden izleyebilirler.
+ℹ️ Öğrenciler kaçırdıkları dersleri ya da tekrar etmek istedikleri dersleri kurs takip sistemimizi kullanarak kendilerine verilecek parola  ile kurs sistemimiz üzerinden izleyebilirler.
 
 ## Ön Koşul
 &#9888;Bu kursta __C++__ dilinin _C_ dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede _C_ bilmeniz gerekmektedir.<br> &#9888;Programa uygun olup olmadığınız konusunda şüpheleriniz varsa &#128279;__[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)__ ile görüşebilirsiniz.
